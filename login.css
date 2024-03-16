@@ -17,8 +17,8 @@ body{
     background-color: #ffff;
     justify-self: center;
     align-self: center;
-    left: calc(50dvw - (314px/2) - 75px );
-    top: calc(50dvh - (327px/2));
+    left: calc(50dvw - (314px/2));
+    top: calc(50dvh - (327px/2) - 75px );
     display: flex;
     flex-direction: column;
     justify-content: space-between;
