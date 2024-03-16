@@ -25,6 +25,7 @@ body{
     border-top-left-radius: 17px;
     border-top-right-radius: 17px;
     padding: 10px;
+    box-sizing: border-box;
 }
 .login-header{
     height: 50px;
