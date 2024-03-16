@@ -64,6 +64,7 @@ body{
     height: 20.5px;
     text-align: center;
     margin-bottom: -30px;
+width: fit-content;
     
 }
 #username{
